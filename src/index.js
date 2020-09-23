@@ -1,6 +1,7 @@
 console.log("asd")
+import './style.scss'
 
-const a = 'asd';
+const a = 'asdxcz';
 
 const b = {
     ...a,
