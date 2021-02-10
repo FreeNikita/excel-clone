@@ -1,6 +1,6 @@
 {
   "name": "excel-course",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "description": "js, javascript",
   "main": "webpack.config.js",
   "browserslist": [

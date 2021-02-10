@@ -8,6 +8,7 @@
   position: relative;
   display: inline-block;
   color: rgba(0, 0, 0, .7);
+  border-radius: 4px;
 
   i {
     font-size: 18px;
@@ -18,7 +19,7 @@
   }
 
   &:hover {
-    background: $border-color;
+    background-color: #dddddd;
     cursor: pointer;
   }
 }
