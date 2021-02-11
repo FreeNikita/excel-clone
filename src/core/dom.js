@@ -28,6 +28,10 @@ class Dom {
       this.$el.appendChild(node);
     }
   }
+
+  on(eventType, callback) {
+    this.$el.addEventListener(eventType, callback);
+  }
 }
 
 export function $(selector) {
